@@ -1,0 +1,11 @@
+LIBRARY "ipcbridge32.dll"
+
+EXPORTS
+
+NtInitialzePutty
+NtCreatePutty
+NtPumpMessage
+NtSend
+NtSetRecv
+NtResponse
+NtFree
